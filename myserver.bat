@@ -1,0 +1,3 @@
+@echo off
+echo start sever....
+jupyter lab
